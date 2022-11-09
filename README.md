@@ -1,2 +1,2 @@
 # PetProject
-SpringBoot,MySQL,Docker and Direectus
+SpringBoot,MySQL,Docker and Directus
